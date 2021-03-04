@@ -1,6 +1,5 @@
 autopep8==1.5.5
 click==7.1.2
-meursing==0.1.0
 psycopg2==2.8.6
 pycodestyle==2.6.0
 python-dotenv==0.15.0
