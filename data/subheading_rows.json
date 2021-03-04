@@ -1,0 +1,130 @@
+{
+    "10": {
+        "milk_fat": "0 - 1.49",
+        "milk_protein": "0 - 2.49"
+    },
+    "20": {
+        "milk_fat": "0 - 1.49",
+        "milk_protein": "2.5 - 5.99"
+    },
+    "30": {
+        "milk_fat": "0 - 1.49",
+        "milk_protein": "6 - 17.99"
+    },
+    "40": {
+        "milk_fat": "0 - 1.49",
+        "milk_protein": "18 - 29.99"
+    },
+    "50": {
+        "milk_fat": "0 - 1.49",
+        "milk_protein": "30 - 59.99"
+    },
+    "60": {
+        "milk_fat": "0 - 1.49",
+        "milk_protein": "60 or more"
+    },
+    "70": {
+        "milk_fat": "1.5 - 2.99",
+        "milk_protein": "0 - 2.49"
+    },
+    "80": {
+        "milk_fat": "1.5 - 2.99",
+        "milk_protein": "2.5 - 5.99"
+    },
+    "90": {
+        "milk_fat": "1.5 - 2.99",
+        "milk_protein": "6 - 17.99"
+    },
+    "100": {
+        "milk_fat": "1.5 - 2.99",
+        "milk_protein": "18 - 29.99"
+    },
+    "110": {
+        "milk_fat": "1.5 - 2.99",
+        "milk_protein": "30 - 59.99"
+    },
+    "120": {
+        "milk_fat": "1.5 - 2.99",
+        "milk_protein": "60 or more"
+    },
+    "130": {
+        "milk_fat": "3 - 5.99",
+        "milk_protein": "0 - 2.49"
+    },
+    "140": {
+        "milk_fat": "3 - 5.99",
+        "milk_protein": "2.5-11.99"
+    },
+    "150": {
+        "milk_fat": "3 - 5.99",
+        "milk_protein": "12 or more"
+    },
+    "160": {
+        "milk_fat": "6 - 8.99",
+        "milk_protein": "0 - 3.9"
+    },
+    "170": {
+        "milk_fat": "6 - 8.99",
+        "milk_protein": "4 - 14.99"
+    },
+    "180": {
+        "milk_fat": "6 - 8.99",
+        "milk_protein": "15 or more"
+    },
+    "190": {
+        "milk_fat": "9 - 11.99",
+        "milk_protein": "0 - 5.99"
+    },
+    "200": {
+        "milk_fat": "9 - 11.99",
+        "milk_protein": "6 - 17.99"
+    },
+    "210": {
+        "milk_fat": "9 - 11.99",
+        "milk_protein": "18 or more"
+    },
+    "220": {
+        "milk_fat": "12 - 17.99",
+        "milk_protein": "0 - 5.99"
+    },
+    "230": {
+        "milk_fat": "12 - 17.99",
+        "milk_protein": "6 - 17.99"
+    },
+    "240": {
+        "milk_fat": "12 - 17.99",
+        "milk_protein": "18 or more"
+    },
+    "250": {
+        "milk_fat": "18 - 25.99",
+        "milk_protein": "0 - 5.99"
+    },
+    "260": {
+        "milk_fat": "18 - 25.99",
+        "milk_protein": "6 or more"
+    },
+    "270": {
+        "milk_fat": "26 - 39.99",
+        "milk_protein": "0 - 5.99"
+    },
+    "280": {
+        "milk_fat": "26 - 39.99",
+        "milk_protein": "6 or more"
+    },
+    "290": {
+        "milk_fat": "40 - 54.99",
+        "milk_protein": null
+    },
+    "300": {
+        "milk_fat": "55 - 69.99",
+        "milk_protein": null
+    },
+    "310": {
+        "milk_fat": "70 - 84.99",
+        "milk_protein": null
+    },
+    "320": {
+        "milk_fat": "85 or more",
+        "milk_protein": null
+    }
+}
